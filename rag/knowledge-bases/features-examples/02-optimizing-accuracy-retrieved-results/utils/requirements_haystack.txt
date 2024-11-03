@@ -6,3 +6,9 @@ retrying
 haystack-ai
 ipywidgets
 iprogress
+<<<<<<< HEAD:rag/knowledge-bases/features-examples/02-optimizing-accuracy-retrieved-results/utils/requirements_haystack.txt
+=======
+langchain
+langchain_aws
+langchain_community
+>>>>>>> 42653099177d0552cf6b68908c1605f793976691:knowledge-bases/features-examples/02-optimizing-accuracy-retrieved-results/utils/requirements.txt
